@@ -130,7 +130,9 @@ What if touch interaction is implemented with <a href="https://hammerjs.github.i
 
 ## Thanks to
 
-Members of the Tapspace v0 code inspection group on 2013-Nov-18
+2019-Mar-19: Tarina Palén for cutting tiles from photos
+
+2013-NOv-18: Members of the Tapspace v0 code inspection group:
 - Johanna Issakainen
 - Mika Kunnas
 - Elina Lukkarinen
